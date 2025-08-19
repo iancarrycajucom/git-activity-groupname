@@ -1,4 +1,4 @@
 # git-activity-groupname
 
-Name: Ian Carry Cajocom
+Name: Ian Carry Cajucom
 Date: 2025-08-07
